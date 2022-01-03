@@ -21,7 +21,7 @@ const App = () => {
     },
     {
         id:2,
-        text: 'Doctors Appt',
+        text: 'Doctors Appt (test)',
         day: 'Feb 5th at 2:30pm', 
         reminder: true,
     },
@@ -29,7 +29,7 @@ const App = () => {
         id:3,
         text: 'Lambda School',
         day: 'Feb 5th at 9:30pm', 
-        reminder: false,
+        reminder: false, // No Highlight 
     },
 ])
 
